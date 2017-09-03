@@ -7,7 +7,7 @@ print('裏モードもあります! 問題は変わりませんが、おまけ�
 print('このアプリは、Python 3.xで動作を確認しています')
 print('このアプリのライセンスは、MITライセンスです')
 print('MITライセンス日本語訳 https://ja.osdn.net/projects/opensource/wiki/licenses%2FMIT_license')
-print('keisan_mondai.py GitHub ')
+print('keisan_mondai.py GitHub https://github.com/Mirin0302/keisan_mondai')
 print('')
 
 start = raw_input('始めるにはEnterを押してください: ')
