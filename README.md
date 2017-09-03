@@ -1,7 +1,7 @@
 # keisan_mondai  
 ただの計算問題アプリです。  
 Python 3.xで作成し、MITライセンスで公開しています。  
-最新版は、v2.4です。  
+最新版は、v2.4.2です。  
   
 動作環境  
 OS: Ubuntu 16.04 LTS 64bit  
