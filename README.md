@@ -8,4 +8,4 @@ OS: Ubuntu 16.04 LTS 64bit
 CPU: Intel Core 2 Duo E7200 2.53GHz×2  
 GPU: Intel G33  
 Memory: 2GB  
-Python: Python 3.6.2
+Python: Python 2.7.12
